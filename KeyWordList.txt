@@ -1,0 +1,788 @@
+natural language
+artificial intelligence
+machine learning
+matlab
+python
+r
+tensorflow
+analyst
+database
+developer
+informatica
+lifecycle
+management
+sas
+security
+solr
+data analytics
+data mining and statistical analysis
+sql
+scala
+data science
+nlp
+node.js
+biomedical - data science
+biomedical
+analysis
+change management
+consulting
+data mining
+development
+excel
+html
+modeling
+ms office
+programming
+recruiter
+research
+natural language processing
+information retrieval
+recommender systems
+hadoop
+spark - machine learning
+spark
+architect
+cloud
+business intelligence
+transformation
+process improvement
+strategy
+analytics
+algorithms
+data modeling
+genetic
+oracle
+sql server
+statistical analysis
+teradata
+architecture
+benchmark
+c++
+java
+sales
+masters degree with 5 years of experience in creating machine learning pipelines
+creating large datasets
+ unsupervised (clustering)
+semi-supervised (label propagation)
+and supervised algorithms.
+
+n/a
+business requirements
+data analysis
+gis
+hardware
+manager
+mysql
+networks
+perl
+project
+supervision
+data scientist
+statistics
+machine learning models
+deep learning networks
+pyspark hadoop
+redshift
+nosql (dynamodb/cassandra/mongodb)
+mathematica
+clustering algorithms
+machine learning algorithms
+neural networks
+restful apis
+nosql databases - mongodb-couchbase - cassandra
+aws- azure
+hadoop - hive - pig
+c/c++ - data scientist
+c/c++
+sme in statistics
+big data
+python/java/c#
+machine learning/data science/data scientist
+test ng/selenium
+ci/cd/ci-cd/continuous integration/continuous deployment/jenkins
+tableau/ raw /chart.js/data visualization
+mathematical
+modeler
+scientific
+scripts
+supply chain
+supply chain management
+business analyst data scientist r python jira github tableau powerbi statistics
+azure
+spark or alteryx
+data science - python
+agile
+data architecture
+data warehouse
+foundation
+http
+julia
+apache spark - python
+apache spark
+one modern programming language: java
+c#
+or python and experience with languages/ frameworks used in ml & analytics: spark
+r etc.
+senior  data scientist  with phd
+aws
+business analyst and data and sql
+physics
+knowledge of a variety of machine learning and statistical modeling techniques in a business setting
+aws cloud services: ec2
+emr
+rds
+redshift; s3
+etl tools knowledge is required.
+senior manager
+machine leaning
+phd
+cplex
+ieor
+business process analysis
+requirements gathering
+documentation
+presentation skills
+deep learning
+optimization
+reinforcement learningm probabistic inference
+pyton
+sql data engineer
+cisco
+micro
+mongodb
+networking
+apache spark or kubernetes or hortonworks or hadoop
+data scientist, python
+slq, 
+watson
+watson discovery
+spss
+watson data studio
+.net
+asp
+asp.net
+automated
+css
+data collection
+jquery
+ups
+validation
+data science; statistics
+machine learning ; predictive analytics; neural network ; decision tree ; random forest ; linear regression ; python or r or sas; datarobot; sql; nosql
+data analyst
+erp
+sap
+mdm
+machine learning and tensorflow and statistical model
+azure cloud engineer
+business intelligence engineer iii
+r studio
+saas
+7 years of progressively increasing responsibilities (marketing
+sales or product development function) within a data driven organization
+olap
+scrum
+business analyst
+financial industry
+android
+python or java
+image processing
+algorithms - machine learning
+ai
+visualization
+crm - python
+crm
+or recommender systems
+leadership
+life science - data science
+life science
+regression
+libraries
+testing
+apache
+mapreduce
+hive
+python - data science
+environmental
+genetics
+qa
+predictive model
+scikit.learn
+virtual environments
+bayesian inference
+prior teaching experience (not essential) - data science
+prior teaching experience (not essential)
+bigdata
+predictive modeling
+bi
+tableau
+cognos
+sql server, 
+5+ years of experience in a similar role and experience in web attribution analytics.
+api
+case
+metrics
+simulation
+data scientist data pipeline modeling data engineer r sas python spark machine learning
+data-science
+machine-learning
+life-sciences
+predictive-analytics
+modeling-and-simulation
+bayesian-statistics
+artificial-intelligence
+sas programming
+sas/stat
+sas enterprise miner
+nlp - data science
+hdfs/ hive/ impala
+network/ security
+development(java)
+insurance
+ai - data scientist
+at least 2 to 4 years professional experience in nlp
+ai/ml
+jquery/javascript programming (including scripting / coding)
+sql and relational databases
+and application development
+ruby on rails / ror / ruby / rails
+javascript
+postgresql
+rest
+soap - ruby on rails / ror / ruby / rails
+soap
+machine learning python sql / nosql databases
+elasticsearch
+predictive analytics
+r/python programming
+h2o or azure ml
+ibm
+pandas
+numpy
+scipy
+scikit-learn
+go
+db2
+machine learning, 
+applied research
+dce
+ruby
+tdd
+digital analytics
+algorithm
+hadoop, python, node, .net, r , spark, api, machine learning
+business objects
+director
+machine learning (ml)
+django
+nosql
+celery - java
+celery
+software engineer
+bi engineer/data scientist
+rational
+etl, python, linux, data warehousing, shell scripting, kdb, data engineering, data science/ai/machine learning
+machine learning 
+analytical
+it
+vba
+image analytics - python
+image analytics
+marketing technologies
+pre-sales engineering
+adobe marketing suite
+salesforce marketing suite
+oracle marketing suite - marketing technologies
+oracle marketing suite
+protocols
+ai and ml models
+pyspark
+and scala
+object oriented programming
+typescript
+(digital tag over 0.2 year(s) or tag management over 0.2 year(s) or tagging over 0.2 year(s) or tealium over 0.2 year(s) or piwik pro over 0.2 year(s) or pixel over 0.2 year(s) or qubit over 0.2 year(s) or opentag over 0.2 year(s) or open tag over 0.2 year(s) or ensighten over 0.2 year(s) or google tag over 0.2 year(s) or dynamic tag management over 0.2 year(s) or tag commander over 0.2 year(s) or mezzobit over 0.2 year(s) or supertag over 0.2 year(s) or super tag over 0.2 year(s) or tag defender over 0.2 year(s) or ubertags over 0.2 year(s) or ddx over 0.2 year(s) ) and(analytics over 0.2 year(s) or data scientist over 0.2 year(s) or informatics over 0.2 year(s) ) and(javascript over 0.2 year(s) or java script over 0.2 year(s) or html over 0.2 year(s) )
+ai.ml
+sklearn
+splunk
+linux
+unix
+data scientist machine learning statistics r python c# java scala
+9+ years of demonstrated experience leading teams
+with thorough knowledge of business intelligence and analytics
+organization transformation
+and/or business strategy developm
+administration
+python tools
+ai - r
+windows
+senior data scientist 
+big data ecosystem
+keras
+data visualization
+data management systems
+embedded
+graphics
+user interface
+python software developer background; ml; data science; system programming; webservices
+rdms
+sosql
+bash
+caffe
+git
+data engineer
+azure machine learning
+datarobot
+rapidminer
+quantitative researcher-equities
+jdbc
+xml
+xslt
+python/r/sas
+domino
+laboratory
+mathematical models
+computer vision
+masters or phd
+2 years industry exp
+open source ml & dl frameworks - computer vision
+open source ml & dl frameworks
+business concepts
+data pipelining
+data engineering
+tableau - python
+pydata
+golang
+iterative
+etl development
+linux os
+shell scripting
+financial experience
+scheduling
+telecommunications
+wireless
+adobe
+access
+analytical skills
+materials
+software
+telecom
+etl
+econometrics
+regressions
+hypothesis testing
+large data sets
+experimental design - sql
+experimental design
+data scientist, machine learning, tensorflow
+jr data scientist
+marketing data scientist/analyst
+scikit
+devops
+digital marketing
+blueprint
+statistical modeling
+recommendation
+mach
+gcp
+data science 
+spark , data streaming
+machine learning tools like spark mlib
+lambda tier
+mahout
+spss or even r
+sql, 
+big data management tools i.e. informatica bdm/idl/eic/idq
+conceptual and logical data modeling
+operations research
+bayesian hierarchical modeling
+statistical regression
+c++ - operations research
+statistical computer language
+slq
+python - aws
+distributed computing - big data
+distributed computing
+bi dashboards
+microsoft powerbi
+computer science
+mathematics
+stanford corenlp
+nltk
+spacy
+pytorch
+pig - python
+pig
+fintech exp
+dynamic pricing
+avionics
+statistical modelers
+marketing/advertising analytics
+machine learning - dynamic pricing
+sql server; unix; x12; epic; cigo; caboodle
+sr data scientist
+data
+scientist
+rwd
+full relocation package
+python r scala sql
+customer service
+project management
+civil
+ms sql
+release
+big data/hadoop, datawarehouse, reporting&etl, sql, data pipelines, 
+data scientist, python, pyspark
+ruby on rails
+soap - ruby on rails
+expertise/experience working on cloud platforms - pivotal cloud foundry and public cloud aws/azure/google cloud.   should have hands on experience configuring and onboarding users including developer
+software engineer - data engineer - sql
+hbase
+cassandra
+couchbase programming
+intern
+phd required
+qlikview
+software development
+ecommerce
+ms in statistics or analytics
+programming in r
+sas or pytho
+middleware
+quality assurance
+data modelling
+python or r
+ms/phd
+neural
+experience with nlp technologies/data science in a clinical background, experience with nlp technologies/data science in a clinical background, expert level understanding of the umls
+risk management
+tensor flow
+cnn
+rnn
+lead data scientist - high growth startup - nyc - 160k+
+rdbms - python
+rdbms
+powerpoint
+version control
+adtech
+spark - big data
+microsoft excel
+tibco
+visual basic
+stata
+biostatistics - r
+biostatistics
+jenkins
+statistical analysis and data driven insights
+sas 
+logistic regression
+clustering 
+chaid
+random forests
+svm
+naive bayes classifier
+neural network.
+oop
+erwin r7.0
+microsoft azure
+azure sql data warehouse
+machine learning (aml)python
+integration service (ssis)
+analysis service (ssas)
+reporting service (ssrs)
+c
+snowflake
+statistical diagnostics of models
+model building
+regression/logistic regression - sas
+regression/logistic regression
+pricing
+underwriting
+marketing
+distribution
+claims
+operations - r
+operations
+mllib
+power bi
+dax
+microsoft
+python and (
+supply chain, strategic planning , data analysis, reporting , \t financial
+operating, marketing, \t spend analysis
+trend analysis
+data mining, \t ad hoc reporting, supplier campaign tracking
+\t small business
+experience using statistical computer languages (r
+etc.) to manipulate data and draw insights from large data sets.
+data sciences
+statistics or data modeling
+must have skills:  data science  python  sas
+machine learning and statistical modeling techniques
+or other scripting languages
+(toolkits like pandas
+etc.) gcp or other cloud platforms
+1. python 2. nlp 3. deep learning
+kafka
+presto - kafka
+presto
+chief data scientist
+sql tableau marketing analysis
+s3
+aws, ec2
+rds, bigdata
+data scientist, 
+data modeling and hypothesis generation
+sap isu
+data analyst and capacity and visualization and sql and azure
+microstrategy
+ux
+r required; python & spark | data mining | data mining expertise: sql required; machine learning | hadoop framework
+process reengineering
+reengineering
+iterative development
+critical thinking
+structured
+redshift - data scientist
+data science python
+model development experience
+ supply chain forecasting
+machine learning jda software
+sgml
+sas or python
+ai & cognitive technology
+nlp and text analytics
+numerical optimization
+stochastic simulation
+and behavioral modeling and simulation for bfs/retail
+java or c++
+nlp(natural language processing) git r matlab
+quantitative business problem solving
+solutions implementation
+operations analysis
+marketing analysis
+simulation development and/or predictive analytics
+data design
+sagemaker
+comprehend
+computational physics - data science
+computational physics
+o advanced applied statistics skills
+including distributions
+statistical testing
+etc. o excellent understanding of fundamental machine learning techniques and algorithms
+such as k-nn
+teaching technical concepts - data science
+teaching technical concepts
+cgi
+ sql
+scikit-learn data visualization (matplotlib
+seaborn
+etc) and analysis tools ( tableau
+modeanalytics
+etc.) amazon web services (aws)
+redshift is a plus.
+apache zeppelin
+elastic search
+agile environment
+ssps modeler experience
+data modeling for analytics
+big data management/concepts
+agile work environment - data mining
+agile work environment
+glm
+mixed effects
+machine learning - python
+test plan
+python, tensorflow
+data analytics, statistics
+astronomy
+biology
+dba
+erwin
+machine learning, r, python
+sql, predictive modelling
+aws, java
+microservices
+bitbucket
+test
+kaggle, 
+xgboost
+golang - spark
+sparks
+finance 
+sql 
+statistics 
+critical thinking 
+wps or spss or python prefer: sql server
+tableu
+looker
+data warehouse reporting
+financial data experience
+natural programmer
+statistics/data modeling
+fintech
+asset mgmt/electronic trading
+cfa a plus
+deep learning and machine learning and research and statistical models and (python
+scala or c++)
+ machine learning
+jda software
+mdm analyst
+master data management analyst
+forecast
+report
+azure - data science
+bs/ms in computer science
+computer engineering
+statistics or data mining disciplines5+ years experience as a data scientist (or equivalent role) applying statistical models
+machine learning and supervised machine learning to cybersecurity or fraud detectionworking knowledge of security detection tools
+logging systems
+networking architecture
+cloud infrastructure and threat intelligenceexperience with data visualization and programming languages
+including python
+scala or javaexperience driving research and early stage projects to production implementationcreative approach to problem solving and using leading edge tools to build innovative solutionsteam player with strong desire to learn
+share knowledge and build a world class security platform
+full stack
+sql - full stack
+postgres
+rabbitmq
+etl; data; spark; hive; extract; transform; load; sql; aws; design; data sets
+statistical/machine learning algorithms - machine learning
+statistical/machine learning algorithms
+python/r
+bioinformatics
+programmer
+labeling
+pl/sql
+(data scientist ) and (data analysis or running data pipelines ) and(machine learning or matlab ) and(python )
+big data science
+python (including numpy
+scipy & pandas)
+bash/shell
+sql (oracle
+postgres) kafka
+gpu
+hive - python
+scalanltk
+stanford
+corenlp
+anaconda - python
+anaconda
+flash
+backend coding
+lambda functions
+dynamodb
+data scientist level 1 experience with data sets
+structured and unstructured data
+php
+atlassian
+random forest
+neuro networks
+google
+netezza
+cloundera
+mongo
+hadoop hbase
+vertica
+linear
+xgboot
+wrangle
+data architect - r
+stats
+marketing analytics
+quantitative modeling
+google analytics
+lead generation
+full funnel analytics - marketing analytics
+full funnel analytics
+data science and implementations in python, etl and big data platforms
+python.
+3+ years experience doing data science with r and python in a professional
+team setting (including git & unit testing)
+sybase
+computer
+engineer
+engineering
+performance
+quality
+systems
+applied mathematics
+java, 
+experience with machine learning
+computer vision or developing software libraries that abstract/encapsulate custom hardware devices.
+sql and data visualization software
+modeling - python
+python - machine learning
+data scientist , predictive modeling
+data scientist machine learning statistical modeling database data python r cloud
+(machine learning ) and (artificial intelligence ) and (rafa )
+data scientist machine learning
+big data storage
+accumulo
+cloudbase
+bigtable
+programming, 
+enterprise architect
+public cloud
+infrastructure/platform design
+cloud/analytics
+cloud enablement/deployment
+docker
+kubernates
+automation
+terraform
+ansible
+puppet
+chef
+quantitative and mathematical proficiency
+claims data
+healthcare
+healthcare analytics
+sas, 
+data science analytics networks machine learning tensorflow
+business services general
+r programming
+apache hadoop
+amazon web services
+bigquery
+hadoop - data
+sdlc
+web developer
+datarobot for quick implementation of ai/ml
+large data set organization & analytics
+algorithmic development
+data visualizations & reporting
+automation - machine learning
+pythin
+data analysis - sql server
+see job description
+hdfs
+building predictive models - r
+building predictive models
+sql python etl
+expertise/experience working on cloud platforms - pivotal cloud foundry and public cloud aws/azure/google cloud.
+r/python
+data scientists and data analysts with u.s. citizenship required and able to obtain a top secret or secret clearance
+machine learning - data scientist
+direct analytics
+u.s. travel agency
+u.s. airline
+network planning
+yield management
+airline contracting - direct analytics
+airline contracting
+principal data scientist skills: analytics - statistics - machine learning - ml - data models - big data - pricing revenue - retail - cloud - price optimization - r - python
+robotics
+hiin analyst
+t-sql
+sprocs
+statistical analysis/modeling
+data scientist 
+quantitative analyst
+analytical techniques
+data manipulation/wrangling
+database concepts and sql
+ ibm db2 and sql server
+ibm spss and sas tools
+r and/or python
+cfa
