@@ -65,8 +65,6 @@ creating large datasets
  unsupervised (clustering)
 semi-supervised (label propagation)
 and supervised algorithms.
-
-n/a
 business requirements
 data analysis
 gis
